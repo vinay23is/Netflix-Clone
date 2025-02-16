@@ -317,8 +317,5 @@ Give a ⭐️ if you like this project!
 
 Hat tip to everyone helped me to learn the techniques used in building this project.
 
-# License 
-
-MIT License.
 
 
