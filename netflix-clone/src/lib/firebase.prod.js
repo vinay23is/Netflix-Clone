@@ -6,7 +6,7 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: 'AIzaSyCev-C6AKuyxD8oXcGwuAyyGmWpo7INl3U',
+  apiKey: '',
   authDomain: 'netflix-test01.firebaseapp.com',
   databaseURL: 'https://netflix-test01.firebaseio.com',
   projectId: 'netflix-test01',
